@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, meu nome é Júlio Antunes Estrela 👋
 
-<!--
-**JulioEstrela/julioestrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📚 Formação
+### IFSP - Instituto Federal de São Paulo (Câmpus São Paulo)
+Técnico de Informática integrado ao Ensino Médio  
+## Cursos
+- Desenvolvimento Backend com Java - DIO (87h)
+- Desenvolvimento de Jogos Digitais em Unity - Senac (48h)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🏆 Conquistas e Premiações
+🥇 CUCO - Medalha de Ouro   
+🥈 OBA - Medalha de Prata  
+🥈 OIMSF - Medalha de Prata  
+🥈 Xadrez em Grupo IFSP - Medalha de Prata  
+🥉 ONC - Medalha de Bronze  
+🏅 OBMEP - Menção Honrosa  
+
+# Área de Atuação
+- Desenvolvimento Back-end
+  - Java
+  - Spring
+  - MySQL
+  - Python
+  - Flask
+- Desenvolvimento Front-end
+  - HTML
+  - CSS
+  - JavaScript
+
+# Hobbies
+- 👨‍💻 Desafios de programação ([Beecrowd](https://judge.beecrowd.com/pt/profile/896287))
+- ♟ Xadrez
+- 🎸 Violão
+- 🏋️‍♀️ Academia
