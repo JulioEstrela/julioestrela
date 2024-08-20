@@ -9,12 +9,15 @@ Técnico de Informática integrado ao Ensino Médio
 
 
 # 🏆 Conquistas e Premiações
-🥇 CUCO - Medalha de Ouro   
-🥈 OBA - Medalha de Prata  
-🥈 OIMSF - Medalha de Prata  
-🥈 Xadrez em Grupo IFSP - Medalha de Prata  
-🥉 ONC - Medalha de Bronze  
-🏅 OBMEP - Menção Honrosa  
+|Medalha|Ano|
+|---|---|
+|🥇 CUCO - Medalha de Ouro                  | 2023 |
+|🥈 OIMSF - Medalha de Prata                | 2024 |
+|🥈 OBA - Medalha de Prata                  | 2024 |
+|🥈 OIMSF - Medalha de Prata                | 2023 |
+|🥈 Xadrez em Grupo IFSP - Medalha de Prata | 2023 |
+|🥉 ONC - Medalha de Bronze                 | 2021 |
+|🏅 OBMEP - Menção Honrosa                  | 2023 |
 
 # Área de Atuação
 - Desenvolvimento Back-end
