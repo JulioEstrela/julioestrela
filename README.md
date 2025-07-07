@@ -12,6 +12,7 @@ Técnico de Informática integrado ao Ensino Médio
 |Medalha|Ano|
 |---|---|
 |🥇 CUCO - Medalha de Ouro                  | 2023 |
+|🥈 TRIF - 2º lugar                         | 2024 |
 |🥈 OIMSF - Medalha de Prata                | 2024 |
 |🥈 OBA - Medalha de Prata                  | 2024 |
 |🥈 OIMSF - Medalha de Prata                | 2023 |
